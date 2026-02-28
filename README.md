@@ -131,6 +131,9 @@ The LSTM model's VOI starts around **82%**, peaks around **94%** at ~100 days, t
 ![Brain Atlas Mapping](assets/brain_atlas_mapping.png)
 *Predicted tumor model (red) overlaid on Yale Brain Atlas segments (cyan).*
 
+![Volume Difference Heat Chart ](assets/brain_heat_map.png)
+*Bluish-cyan represents a small difference between the predicted tumor model and the actual tumor model; yellow and purple represent a large positive or negative difference between the predicted tumor model and the actual tumor model.*
+
 ---
 
 ## Installation
